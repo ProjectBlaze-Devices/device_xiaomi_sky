@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/bliss_sky.mk
+    $(LOCAL_DIR)/blaze_sky.mk
 
 COMMON_LUNCH_CHOICES := \
-    bliss_sky-ap1a-eng \
-    bliss_sky-ap1a-userdebug \
-    bliss_sky-ap1a-user
+    blaze_sky-eng \
+    blaze_sky-userdebug \
+    blaze_sky-user
